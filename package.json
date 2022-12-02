@@ -2,7 +2,7 @@
     "name": "async-storage-flipper",
     "version": "0.0.5",
     "description": "React Native's Async Storage debugger for Flipper",
-    "main": "index.js",
+    "main": "packages/rn-async-storage-flipper/index.js",
     "scripts": {
         "test:code": "eslint --max-warnings=0 --ignore-path .gitignore --ext .js,.ts,.tsx .",
         "fix": "npm run fix:other && npm run fix:code",
